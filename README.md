@@ -1,2 +1,0 @@
-# Campbelltutor
-my practice zone
