@@ -142,3 +142,5 @@ print("\n只處理數字:")
 for item in mixed_list:
     if isinstance(item, int):
         print(item)
+
+        
